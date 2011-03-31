@@ -1,0 +1,943 @@
+swift (1.0.99+1.1.0rc1-1.123) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 31 Mar 2011 06:17:27 +0000
+
+swift (1.0.99+1.1.0rc1-1.122) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 30 Mar 2011 21:17:25 +0000
+
+swift (1.0.99+1.1.0rc1-1.121) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 30 Mar 2011 20:51:14 +0000
+
+swift (1.0.99+1.1.0rc1-1.120) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 29 Mar 2011 20:32:27 +0000
+
+swift (1.0.99+1.1.0rc1-1.119) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 29 Mar 2011 17:04:02 +0000
+
+swift (1.0.99+1.1.0rc1-1.118) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Sat, 26 Mar 2011 00:32:24 +0000
+
+swift (1.0.99+1.1.0rc1-1.117) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 24 Mar 2011 19:47:27 +0000
+
+swift (1.0.99+1.1.0rc1-1.116) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 24 Mar 2011 19:03:13 +0000
+
+swift (1.0.99+1.1.0rc1-1.115) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 24 Mar 2011 17:33:05 +0000
+
+swift (1.0.99+1.1.0rc1-1.114) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 17 Mar 2011 22:47:28 +0000
+
+swift (1.0.99+1.1.0rc1-1.113) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 16 Mar 2011 23:17:29 +0000
+
+swift (1.0.99+1.1.0rc1-1.112) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 16 Mar 2011 19:17:27 +0000
+
+swift (1.0.99+1.1.0rc1-1.111) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 15 Mar 2011 16:46:31 +0000
+
+swift (1.0.99+1.1.0rc1-1.110) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 15 Mar 2011 16:05:49 +0000
+
+swift (1.0.99+1.1.0rc1-1.109) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 15 Mar 2011 15:49:07 +0000
+
+swift (1.0.99+1.1.0rc1-1.108) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 14 Mar 2011 15:32:09 +0000
+
+swift (1.0.99+1.1.0rc1-1.107) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Sat, 12 Mar 2011 02:32:08 +0000
+
+swift (1.0.99+1.1.0rc1-1.106) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 11 Mar 2011 17:02:17 +0000
+
+swift (1.0.99+1.1.0rc1-1.105) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 10 Mar 2011 20:02:13 +0000
+
+swift (1.0.99+1.1.0rc1-1.104) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 08 Mar 2011 23:03:58 +0000
+
+swift (1.0.99+1.1.0rc1-1.103) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 08 Mar 2011 22:02:05 +0000
+
+swift (1.0.99+1.1.0rc1-1.102) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 08 Mar 2011 20:32:10 +0000
+
+swift (1.0.99+1.1.0rc1-1.101) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 03 Mar 2011 22:32:45 +0000
+
+swift (1.0.99+1.1.0rc1-1.100) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 03 Mar 2011 22:17:47 +0000
+
+swift (1.0.99+1.1.0rc1-1.99) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 03 Mar 2011 21:17:11 +0000
+
+swift (1.0.99+1.1.0rc1-1.98) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 03 Mar 2011 15:02:17 +0000
+
+swift (1.0.99+1.1.0rc1-1.97) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 01 Mar 2011 18:32:19 +0000
+
+swift (1.0.99+1.1.0rc1-1.96) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 28 Feb 2011 23:17:22 +0000
+
+swift (1.0.99+1.1.0rc1-1.95) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 24 Feb 2011 21:32:10 +0000
+
+swift (1.0.99+1.1.0rc1-1.94) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 22 Feb 2011 16:17:14 +0000
+
+swift (1.0.99+1.1.0rc1-1.93) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 21 Feb 2011 19:17:18 +0000
+
+swift (1.0.99+1.1.0rc1-1.92) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 17 Feb 2011 22:02:56 +0000
+
+swift (1.0.99+1.1.0rc1-1.91) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 17 Feb 2011 21:02:54 +0000
+
+swift (1.0.99+1.1.0rc1-1.90) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 17 Feb 2011 20:48:47 +0000
+
+swift (1.0.99+1.1.0rc1-1.89) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 17 Feb 2011 16:47:10 +0000
+
+swift (1.0.99+1.1.0rc1-1.88) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 16 Feb 2011 21:17:16 +0000
+
+swift (1.0.99+1.1.0rc1-1.87) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 16 Feb 2011 20:03:55 +0000
+
+swift (1.0.99+1.1.0rc1-1.86) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 14 Feb 2011 19:47:40 +0000
+
+swift (1.0.99+1.1.0rc1-1.85) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 11 Feb 2011 17:32:10 +0000
+
+swift (1.0.99+1.1.0rc1-1.84) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 11 Feb 2011 17:17:10 +0000
+
+swift (1.0.99+1.1.0rc1-1.83) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 10 Feb 2011 22:32:29 +0000
+
+swift (1.0.99+1.1.0rc1-1.82) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 10 Feb 2011 17:17:14 +0000
+
+swift (1.0.99+1.1.0rc1-1.81) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 25 Jan 2011 15:31:57 +0000
+
+swift (1.0.99+1.1.0rc1-1.80) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 25 Jan 2011 15:02:11 +0000
+
+swift (1.0.99+1.1.0rc1-1.79) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 25 Jan 2011 00:31:58 +0000
+
+swift (1.0.99+1.1.0rc1-1.78) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 24 Jan 2011 23:47:12 +0000
+
+swift (1.0.99+1.1.0rc1-1.77) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 24 Jan 2011 23:32:25 +0000
+
+swift (1.0.99+1.1.0rc1-1.76) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 24 Jan 2011 23:02:07 +0000
+
+swift (1.0.99+1.1.0rc1-1.75) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 21 Jan 2011 21:02:18 +0000
+
+swift (1.0.99+1.1.0rc1-1.74) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 21 Jan 2011 16:32:34 +0000
+
+swift (1.0.99+1.1.0rc1-1.73) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 20 Jan 2011 00:46:52 +0000
+
+swift (1.0.99+1.1.0rc1-1.72) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 20 Jan 2011 00:32:10 +0000
+
+swift (1.0.99+1.1.0rc1-1.71) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 19 Jan 2011 23:32:00 +0000
+
+swift (1.0.99+1.1.0rc1-1.70) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 19 Jan 2011 15:32:06 +0000
+
+swift (1.0.99+1.1.0rc1-1.69) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 19 Jan 2011 05:02:09 +0000
+
+swift (1.0.99+1.1.0rc1-1.68) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 19 Jan 2011 04:16:52 +0000
+
+swift (1.0.99+1.1.0rc1-1.67) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 18 Jan 2011 21:47:00 +0000
+
+swift (1.0.99+1.1.0rc1-1.66) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 18 Jan 2011 20:46:55 +0000
+
+swift (1.0.99+1.1.0rc1-1.65) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 18 Jan 2011 19:16:58 +0000
+
+swift (1.0.99+1.1.0rc1-1.64) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 18 Jan 2011 15:31:57 +0000
+
+swift (1.0.99+1.1.0rc1-1.63) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 17 Jan 2011 23:16:53 +0000
+
+swift (1.0.99+1.1.0rc1-1.62) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 17 Jan 2011 22:32:00 +0000
+
+swift (1.0.99+1.1.0rc1-1.61) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 21:02:02 +0000
+
+swift (1.0.99+1.1.0rc1-1.60) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 20:47:03 +0000
+
+swift (1.0.99+1.1.0rc1-1.59) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 18:17:01 +0000
+
+swift (1.0.99+1.1.0rc1-1.58) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 14:47:00 +0000
+
+swift (1.0.99+1.1.0rc1-1.57) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 09:17:00 +0000
+
+swift (1.0.99+1.1.0rc1-1.56) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 08:47:00 +0000
+
+swift (1.0.99+1.1.0rc1-1.55) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 05:32:02 +0000
+
+swift (1.0.99+1.1.0rc1-1.54) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 05:16:59 +0000
+
+swift (1.0.99+1.1.0rc1-1.53) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 14 Jan 2011 04:01:59 +0000
+
+swift (1.0.99+1.1.0rc1-1.52) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 13 Jan 2011 21:17:02 +0000
+
+swift (1.0.99+1.1.0rc1-1.51) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 13 Jan 2011 17:32:00 +0000
+
+swift (1.0.99+1.1.0rc1-1.50) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 13 Jan 2011 02:47:02 +0000
+
+swift (1.0.99+1.1.0rc1-1.49) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 12 Jan 2011 01:46:59 +0000
+
+swift (1.0.99+1.1.0rc1-1.48) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 11 Jan 2011 17:17:06 +0000
+
+swift (1.0.99+1.1.0rc1-1.47) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 11 Jan 2011 15:47:04 +0000
+
+swift (1.0.99+1.1.0rc1-1.46) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 11 Jan 2011 04:02:33 +0000
+
+swift (1.0.99+1.1.0rc1-1.45) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 11 Jan 2011 03:47:39 +0000
+
+swift (1.0.99+1.1.0rc1-1.44) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 10 Jan 2011 17:06:33 +0000
+
+swift (1.0.99+1.1.0rc1-1.43) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 28 Dec 2010 21:02:30 +0000
+
+swift (1.0.99+1.1.0rc1-1.42) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 28 Dec 2010 19:17:29 +0000
+
+swift (1.0.99+1.1.0rc1-1.41) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 28 Dec 2010 12:43:58 +0000
+
+swift (1.0.99+1.1.0rc1-1.40) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 10 Dec 2010 17:32:34 +0000
+
+swift (1.0.99+1.1.0rc1-1.39) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 06 Dec 2010 20:17:37 +0000
+
+swift (1.0.99+1.1.0rc1-1.38) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 03 Dec 2010 16:17:35 +0000
+
+swift (1.0.99+1.1.0rc1-1.37) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 01 Dec 2010 20:32:49 +0000
+
+swift (1.0.99+1.1.0rc1-1.36) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 01 Dec 2010 16:32:32 +0000
+
+swift (1.0.99+1.1.0rc1-1.35) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 30 Nov 2010 23:47:35 +0000
+
+swift (1.0.99+1.1.0rc1-1.34) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 30 Nov 2010 21:04:50 +0000
+
+swift (1.0.99+1.1.0rc1-1.33) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 30 Nov 2010 16:03:16 +0000
+
+swift (1.0.99+1.1.0rc1-1.32) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 24 Nov 2010 18:17:28 +0000
+
+swift (1.0.99+1.1.0rc1-1.31) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 24 Nov 2010 17:47:27 +0000
+
+swift (1.0.99+1.1.0rc1-1.30) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 24 Nov 2010 17:32:33 +0000
+
+swift (1.0.99+1.1.0rc1-1.29) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 19 Nov 2010 23:02:30 +0000
+
+swift (1.0.99+1.1.0rc1-1.28) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 18 Nov 2010 23:03:04 +0000
+
+swift (1.0.99+1.1.0rc1-1.27) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 18 Nov 2010 21:48:07 +0000
+
+swift (1.0.99+1.1.0rc1-1.26) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 16 Nov 2010 23:32:16 +0000
+
+swift (1.0.99+1.1.0rc1-1.25) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 16 Nov 2010 20:02:18 +0000
+
+swift (1.0.99+1.1.0rc1-1.24) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 16 Nov 2010 19:17:22 +0000
+
+swift (1.0.99+1.1.0rc1-1.23) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 15 Nov 2010 23:17:13 +0000
+
+swift (1.0.99+1.1.0rc1-1.22) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 15 Nov 2010 19:47:17 +0000
+
+swift (1.0.99+1.1.0rc1-1.21) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 11 Nov 2010 16:02:15 +0000
+
+swift (1.0.99+1.1.0rc1-1.20) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 05 Nov 2010 20:02:23 +0000
+
+swift (1.0.99+1.1.0rc1-1.19) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 05 Nov 2010 18:17:12 +0000
+
+swift (1.0.99+1.1.0rc1-1.18) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 05 Nov 2010 18:02:45 +0000
+
+swift (1.0.99+1.1.0rc1-1.17) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Fri, 05 Nov 2010 16:02:17 +0000
+
+swift (1.0.99+1.1.0rc1-1.16) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 04 Nov 2010 19:05:15 +0000
+
+swift (1.0.99+1.1.0rc1-1.15) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 04 Nov 2010 15:17:24 +0000
+
+swift (1.0.99+1.1.0rc1-1.14) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 03 Nov 2010 18:47:24 +0000
+
+swift (1.0.99+1.1.0rc1-1.13) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 03 Nov 2010 16:32:37 +0000
+
+swift (1.0.99+1.1.0rc1-1.12) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 02 Nov 2010 18:47:24 +0000
+
+swift (1.0.99+1.1.0rc1-1.11) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 02 Nov 2010 18:32:50 +0000
+
+swift (1.0.99+1.1.0rc1-1.10) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 02 Nov 2010 14:32:21 +0000
+
+swift (1.0.99+1.1.0rc1-1.9) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 01 Nov 2010 21:17:24 +0000
+
+swift (1.0.99+1.1.0rc1-1.8) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 28 Oct 2010 20:32:14 +0000
+
+swift (1.0.99+1.1.0rc1-1.7) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 25 Oct 2010 20:48:07 +0000
+
+swift (1.0.99+1.1.0rc1-1.6) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Mon, 25 Oct 2010 19:02:19 +0000
+
+swift (1.0.99+1.1.0rc1-1.5) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 21 Oct 2010 19:17:17 +0000
+
+swift (1.0.99+1.1.0rc1-1.4) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Thu, 21 Oct 2010 15:32:18 +0000
+
+swift (1.0.99+1.1.0rc1-1.3) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 20 Oct 2010 22:32:27 +0000
+
+swift (1.0.99+1.1.0rc1-1.2) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Wed, 20 Oct 2010 20:47:42 +0000
+
+swift (1.0.99+1.1.0rc1-1.1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Merged from trunk
+
+ -- OpenStack Hudson <hudson@openstack.org>  Tue, 19 Oct 2010 23:02:56 +0000
+
+swift (1.0.99+1.1.0rc1-1) unstable; urgency=low
+
+  * New upstream release.
+  * Updated to standards version 3.9.1. 
+  * Use jquery package to provide jquery.js.
+  * Updated some of the control file to make lintian happy.
+
+ -- Monty Taylor <mordred@inaugust.com>  Tue, 19 Oct 2010 14:32:17 -0700
+
+swift (1.0.2-7) unstable; urgency=low
+
+  * Added swift-bench to swift package.
+
+ -- Monty Taylor <mordred@inaugust.com>  Mon, 18 Oct 2010 09:14:22 -0700
+
+swift (1.0.2-6) unstable; urgency=low
+
+  * swift-auth-create-account is now swift-auth-add-user.
+
+ -- Greg Holt <gholt@rackspace.com>  Fri, 03 Sep 2010 13:32:20 +0000
+
+swift (1.0.2-5) unstable; urgency=low
+
+  * Add a step in debian/rules to create doc/build if it doesn't exist.
+
+ -- Monty Taylor <mordred@inaugust.com>  Wed, 25 Aug 2010 08:55:45 -0700
+
+swift (1.0.2-4) unstable; urgency=low
+
+  * Fixed the depend on sphinx - it actually only needs to be >= 1.0.
+  * Added paste-deploy as a depend.
+
+ -- Monty Taylor <mordred@inaugust.com>  Tue, 24 Aug 2010 12:02:31 -0700
+
+swift (1.0.2-3) unstable; urgency=low
+
+  [ Greg Holt ]
+  * Added a png to the docs.
+
+  [ Monty Taylor ]
+  * Add rsync and remove duplicate net-tools dependency.
+  * Added Jay Payne to uploaders.
+  * Added Greg Holt to uploaders.
+  * Updated VCS location to use UDD locations. 
+  * We actually depend on 1.0 of sphinx.
+
+ -- Monty Taylor <mordred@inaugust.com>  Tue, 24 Aug 2010 00:02:00 -0700
+
+swift (1.0.2-2) unstable; urgency=low
+
+  * Created python-swift package and actually put the python files in it.
+  * Added python build dep.
+  * Added debhelper token to postinst script. Also removed the
+    byte-compiling of the files, since python-support should do that for us.
+  * Cleaned up control file - removed homepage entries in description,
+    removed trailing periods.
+  * Changed provides in swift-proxy to match policy.
+
+ -- Monty Taylor <mordred@inaugust.com>  Wed, 28 Jul 2010 13:32:55 -0700
+
+swift (1.0.2-1) unstable; urgency=low
+
+  * New upstream release.
+  * Added VCS info to control file.
+
+ -- Monty Taylor <mordred@inaugust.com>  Thu, 22 Jul 2010 18:32:02 -0500
+
+swift (1.0.1-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Monty Taylor <mordred@inaugust.com>  Mon, 19 Jul 2010 11:22:41 -0500
+
+swift (1.0.0-1) unstable; urgency=low
+
+  [ Michael Barton ]
+  * Initial release
+
+  [ Monty Taylor ]
+  * Added docs to doc system.
+
+ -- Monty Taylor <mordred@inaugust.com>  Wed, 14 Jul 2010 10:41:11 -0500
