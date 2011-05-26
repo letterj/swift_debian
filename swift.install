@@ -13,3 +13,5 @@ usr/bin/swauth-add-user
 usr/bin/swauth-delete-account
 usr/bin/swauth-list
 usr/bin/swauth-set-account-service
+usr/bin/swift-dispersion-populate
+usr/bin/swift-dispersion-report
