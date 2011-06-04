@@ -1,0 +1,158 @@
+Package: python-eventlet
+Version: 0.9.15-rax2
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 239
+Depends: python (>= 2.5), python-support (>= 0.90.0), python-greenlet
+Provides: python2.6-eventlet
+Homepage: http://eventlet.net
+Priority: optional
+Section: python
+Filename: pool/main/p/python-eventlet/python-eventlet_0.9.15-rax2_amd64.deb
+Size: 113716
+SHA256: a6ea3a04c3eb8246379deec9d68fc4a0a43a90ea51f7231f6ca7ad714e91e51a
+SHA1: e52f35b0738d65270711922b2c5241f9ba22d2a2
+MD5sum: d12669d5f506f886d239abb9d9fb066d
+Description: A concurrent networking library for Python
+ Eventlet allows you to change how you run your code, not how you write it.
+ .
+ It uses epoll or libevent for highly scalable non-blocking I/O.
+ Coroutines ensure that the developer uses a blocking style of programming
+ that is similar to threading, but provide the benefits of non-blocking I/O.
+ The event dispatch is implicit, which means you can easily use Eventlet from
+ the Python interpreter, or as a small part of a larger application.
+ .
+ It's easy to get started using Eventlet, and easy to convert existing
+ applications to use it. Start off by looking at examples, common design
+ patterns, and the list of the basic API primitives.
+Original-Maintainer: Monty Taylor <mordred@inaugust.com>
+
+Package: python-swift
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 2184
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-openssl, python-setuptools, python-pastedeploy, python-webob (>= 0.9.7.1~hg20100111-1~racklabs1), python-simplejson, python-xattr, python-netifaces, python-greenlet (>= 0.3.1), python-eventlet (>= 0.9.8)
+Provides: python2.6-swift
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: python
+Filename: pool/main/s/swift/python-swift_1.4.0-2_all.deb
+Size: 282846
+SHA256: 06403ec7f62c8d345d5347d0cb8110c2f5f76e1536fa705b322bbaf55b959ae6
+SHA1: 10d7cc526e86a3f9efc201f4a2ea6a77e75101cf
+MD5sum: fc5a317fe8d671882443c1619357a1e3
+Description: A distributed virtual object store (python libraries)
+ Swift is a distributed virtual object store.
+ .
+ This package provides the python libraries that actually implement
+ everything.
+
+Package: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 276
+Depends: python-swift (= 1.4.0-2), python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift_1.4.0-2_all.deb
+Size: 40754
+SHA256: 9aec96948e29526f1cbea18f94712af6daf40153d3713b5e9d6dd3e79e37ba2c
+SHA1: 4c0486d5a62f4a604b8ba7fd97aad1379187aa14
+MD5sum: a8ec64a357a8bce2a2c236aa38c9acfa
+Description: A distributed virtual object store (common files)
+ Swift is a distributed virtual object store.
+
+Package: swift-account
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 104
+Depends: python-swift (= 1.4.0-2), rsync, python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-account_1.4.0-2_all.deb
+Size: 8822
+SHA256: 55449428c322aa3c4aed487ced2f5439d67563806c65d18d883044ba35efd6fe
+SHA1: 24f3b1bcec4f529c452926bf303f4c01582f5363
+MD5sum: 9434aebf2c5869f0b0ba2fff3f2c9915
+Description: The swift account server
+ The swift account server.
+
+Package: swift-container
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 96
+Depends: python-swift (= 1.4.0-2), rsync, python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-container_1.4.0-2_all.deb
+Size: 8412
+SHA256: caccb3e6884ec9f7a9dd1dfec9bdb77b039be87f6949656a9773c6351c5be1d7
+SHA1: f3a09c124246a9b8e5eaabb04469593763647061
+MD5sum: c6967f0953191d68289df02eb080b36e
+Description: The swift container server
+ The swift container server.
+
+Package: swift-doc
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 1148
+Depends: libjs-jquery
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: doc
+Filename: pool/main/s/swift/swift-doc_1.4.0-2_all.deb
+Size: 238258
+SHA256: 1c5fee81b0add74e9f6af66904686660e24eec572cf8459123bcf0e4ac3ab30c
+SHA1: 8801756db1ab5ae17b5228550eabc0f06286c387
+MD5sum: c7fa8d0cdc28953516a3abfa52ff9d6d
+Description: The swift documentation
+ Sphinx documentation for Swift.
+
+Package: swift-object
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 104
+Depends: python-swift (= 1.4.0-2), rsync, python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-object_1.4.0-2_all.deb
+Size: 10008
+SHA256: fe9033c3ddc21ec7bac82e0cdeb641c50a2a594e5c2f64829167f8fe1bc75cdc
+SHA1: 7f1ab68fb9b96d534efd585b47082db44c585fd7
+MD5sum: 5b85cf146a3759277222fe3ecd3f4727
+Description: The swift object server
+ The swift object server.
+
+Package: swift-proxy
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 76
+Depends: python-swift (= 1.4.0-2), python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-proxy_1.4.0-2_all.deb
+Size: 9422
+SHA256: 034de64be1044754749703021dd2484ed51501e2fc86e385c37e739b6fb592f7
+SHA1: da73d968afd7bde78145c8ec5e8a69cba029e55d
+MD5sum: ee86796e8f6b5215a9dd68a87fb11819
+Description: The swift proxy server
+ The swift proxy server.
+
