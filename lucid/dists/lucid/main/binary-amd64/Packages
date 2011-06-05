@@ -27,6 +27,113 @@ Description: A concurrent networking library for Python
  patterns, and the list of the basic API primitives.
 Original-Maintainer: Monty Taylor <mordred@inaugust.com>
 
+Package: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: amd64
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 27
+Depends: libc6 (>= 2.2.5), python (<< 2.7), python (>= 2.6), python-support (>= 0.90.0)
+Suggests: python-greenlet-doc, python-greenlet-dev, python-greenlet-dbg
+Conflicts: python-codespeak-lib (<< 1.0)
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: python
+Filename: pool/main/p/python-greenlet/python-greenlet_0.3.1-1ubuntu1build1_amd64.deb
+Size: 14684
+SHA256: 198d4b495119dfe9b6cb3abcb4392fb973aa2650036a40955cebb743a6689763
+SHA1: 7b79bfefa6dd4f6ba7928d83cd1cefb586f00d77
+MD5sum: 94613ffe8ad69e0359b018092e7d7c7b
+Description: Lightweight in-process concurrent programming
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+
+Package: python-greenlet-dbg
+Source: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: amd64
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 24
+Depends: python-greenlet (= 0.3.1-1ubuntu1build1)
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: debug
+Filename: pool/main/p/python-greenlet/python-greenlet-dbg_0.3.1-1ubuntu1build1_amd64.deb
+Size: 15008
+SHA256: 2b891216fa52d89054e9ef7895cf99129791edd423e12a6cc33d9f45814a3762
+SHA1: 8b84911eca25c1c6559476fa6393692e9ae4d3d0
+MD5sum: fab8ae83790556e511adc084728b5314
+Description: Lightweight in-process concurrent programming development files
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+ .
+ This is the debugging symbols for greenlet.
+
+Package: python-greenlet-dev
+Source: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: amd64
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 7
+Depends: python-greenlet (= 0.3.1-1ubuntu1build1)
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: python
+Filename: pool/main/p/python-greenlet/python-greenlet-dev_0.3.1-1ubuntu1build1_amd64.deb
+Size: 2250
+SHA256: a11eb0c90a5c48632478093d56fc139a37e0f22301af7343f17afabe2bb47c47
+SHA1: 9ce9362e45e242569256ee7527c812444dd7da7c
+MD5sum: 6d7dd8355e1ee7db7e868a18b92a6141
+Description: Lightweight in-process concurrent programming development files
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+ .
+ This is the development package for greenlet.
+
+Package: python-greenlet-doc
+Source: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: all
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 12
+Suggests: python-greenlet, python-greenlet-dev
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: doc
+Filename: pool/main/p/python-greenlet/python-greenlet-doc_0.3.1-1ubuntu1build1_all.deb
+Size: 9624
+SHA256: a1deda6c133433f2242e1c59fbc50e6ca8fd536b85c837eea6ae545a0aed148e
+SHA1: 54c9b3d5e215d8c78abd7bc9851314b182cdaed1
+MD5sum: 94835eb06e4750e4e0dad9d957a7132a
+Description: Lightweight in-process concurrent programming development files
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+ .
+ This is the documentation for greenlet.
+
 Package: python-swift
 Source: swift
 Version: 1.4.0-2
