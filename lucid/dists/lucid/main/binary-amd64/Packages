@@ -156,6 +156,28 @@ Description: A distributed virtual object store (python libraries)
  This package provides the python libraries that actually implement
  everything.
 
+Package: python-webob
+Version: 1.0.7-1
+Architecture: all
+Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Installed-Size: 590
+Depends: python
+Suggests: libjs-jquery
+Homepage: http://pythonpaste.org/webob/
+Priority: optional
+Section: python
+Filename: pool/main/p/python-webob/python-webob_1.0.7-1_all.deb
+Size: 280146
+SHA256: c22dec46425d24d00e1b50b9a2d9217b0eb7d7785592bfaf12d51ca24c2e8753
+SHA1: 2f9dac59c0aeea6716935580e98feb905678fdf8
+MD5sum: eb607b3981d73b6e4210282cf943412a
+Description: Python module providing WSGI request and response objects
+ WebOb provides wrappers around the WSGI request environment, and an object to
+ help create WSGI responses.
+ .
+ The objects map much of the specified behavior of HTTP, including header
+ parsing and accessors for other standard parts of the environment.
+
 Package: swift
 Version: 1.4.0-2
 Architecture: all
