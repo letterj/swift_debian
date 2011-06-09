@@ -5,13 +5,5 @@ usr/bin/swift-stats-populate
 usr/bin/swift-stats-report
 usr/bin/swift-log-stats-collector
 usr/bin/st
-usr/bin/swauth-add-account
-usr/bin/swauth-cleanup-tokens
-usr/bin/swauth-delete-user
-usr/bin/swauth-prep
-usr/bin/swauth-add-user
-usr/bin/swauth-delete-account
-usr/bin/swauth-list
-usr/bin/swauth-set-account-service
 usr/bin/swift-dispersion-populate
 usr/bin/swift-dispersion-report
