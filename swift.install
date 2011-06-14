@@ -4,6 +4,6 @@ usr/bin/swift-get-nodes
 usr/bin/swift-stats-populate
 usr/bin/swift-stats-report
 usr/bin/swift-log-stats-collector
-usr/bin/st
+usr/bin/swift
 usr/bin/swift-dispersion-populate
 usr/bin/swift-dispersion-report
