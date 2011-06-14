@@ -1,3 +1,21 @@
+swift (1.4.1-1) lucid; urgency=low
+
+  * st renamed to swift
+
+  * swauth was separated froms swift. It is now its own project and can be
+    found at https://github.com/gholt/swauth.
+
+  * tempauth middleware added as an extremely limited auth system for dev
+    work.
+
+  * Account and container listings now properly labeled UTF-8 (previously the
+    label was "utf8").
+
+  * Accounts are auto-created if an auth token is valid when the
+    account_autocreate proxy config parameter is set to true.
+
+ -- dfg <david.goetz@rackspace.com>  Tue, 14 Jun 2011 12:16:55 -0700
+
 swift (1.4.0-2) lucid; urgency=low
 
   * adding the swift-container-stats-logger into package bin
