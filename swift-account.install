@@ -2,4 +2,3 @@ usr/bin/swift-account-server
 usr/bin/swift-account-replicator
 usr/bin/swift-account-auditor
 usr/bin/swift-account-reaper
-usr/bin/swift-account-stats-logger
