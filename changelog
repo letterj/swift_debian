@@ -1,3 +1,26 @@
+swift (1.4.1-2) lucid; urgency=low
+
+  * Update to comply with XML 1.1: No NULLs in names allowed; control chars are
+    converted to entities (ex: &#x4;)
+
+  * Removed stats/logging code from Swift [now in separate slogging project].
+
+  * This fixes the bug that drop_buffer_cache() doesn't work on systems where
+    off_t isn't 64 bits.
+
+  * You can specify X-Newest: true on GETs and HEADs to indicate you want Swift
+    to query all backend copies and return the newest version retrieved.
+
+  * Object COPY requests now always copy the newest object they can find.
+
+  * Object POSTs are implemented as COPYs now by default (you can revert to
+    previous implementation with conf object_post_as_copy = false)
+
+  * Account and container GETs and HEADs now shuffle the nodes they use to
+    balance load.
+
+ -- Greg <gholt@rackspace.com>  Mon, 11 Jul 2011 17:50:31 +0000
+
 swift (1.4.1-1) lucid; urgency=low
 
   * st renamed to swift
