@@ -3,37 +3,37 @@ Label: Swift
 Suite: stable
 Codename: lucid
 Version: 5.0
-Date: Thu, 28 Jul 2011 17:48:33 UTC
+Date: Thu, 28 Jul 2011 18:23:16 UTC
 Architectures: i386 amd64
 Components: main
 Description: Swift packages for Lucid
 MD5Sum:
- f4514269d8bd66b4f9e7214d2c3a2d6a 6284 main/binary-i386/Packages
- 853d52a5ad043862ac5399a594302909 2286 main/binary-i386/Packages.gz
+ c3dcdf8cc22a48fa41dd2393b910fcb6 6284 main/binary-i386/Packages
+ 6ccf0a9556e09bdb4a8422627fa8e09e 2289 main/binary-i386/Packages.gz
  fe6eb3fdc3a94d858d6f68d5907ee1d3 129 main/binary-i386/Release
- d0c7d6c403ad9ab796ef46ddb8e8a22d 11032 main/binary-amd64/Packages
- d5a62236cc725d485fcdc9fef9bfa0cf 3315 main/binary-amd64/Packages.gz
+ b0e3abf736314bdb683a999fa134463f 11032 main/binary-amd64/Packages
+ dab477f42b6cab6707db62c934a4842e 3322 main/binary-amd64/Packages.gz
  2c4b8743fb3d120b22f0dac95d96eadd 130 main/binary-amd64/Release
- 9a12ea3f60ed1bf51e883518d5d9e4cb 4825 main/source/Sources
- f8c0d102762fb11ab794cf08c5bdec51 1884 main/source/Sources.gz
+ 66fd147b1e1d880e57789d83fd5bb434 4825 main/source/Sources
+ f904e7251698446eac238e3442fd7366 1885 main/source/Sources.gz
  8e520eca8cbc883c35df1be0277e43b2 131 main/source/Release
 SHA1:
- 4b52d6626e55a7464b542a15975069a3f777c1ea 6284 main/binary-i386/Packages
- e8b8f24ba5d37df2274b2463f938dc32d679c538 2286 main/binary-i386/Packages.gz
+ bb104429d9e4d08084835d2eddea71d41a0078b2 6284 main/binary-i386/Packages
+ dc241a2f7e68c5b749989b4446f31c66c9a4d62a 2289 main/binary-i386/Packages.gz
  2e9d99c2c1d999d963b99baa08ee7e4779211615 129 main/binary-i386/Release
- e69966efe15083ae25440830e10352fe50f70f70 11032 main/binary-amd64/Packages
- 24a14bb29b33057913296756549fd04f52f6a729 3315 main/binary-amd64/Packages.gz
+ e64a8b1a5f644fc5aa7b0e61db851d3ba0867150 11032 main/binary-amd64/Packages
+ 3f0db784852a45e1e61b80b4d5b76573fefeafcd 3322 main/binary-amd64/Packages.gz
  4aed9b6b40d410c7f293166ed95fc0014293e8ba 130 main/binary-amd64/Release
- 05ec72455617ddd109eb20315cb368204e70d9f4 4825 main/source/Sources
- 152f62cc58cdb0d6e73a30c2ec6d35234d7622a4 1884 main/source/Sources.gz
+ b051a51f0405d8fb0bac14ac2980a6196a79de0a 4825 main/source/Sources
+ 9d1542e1f1675d416824eb623b9c0ff5b184b25f 1885 main/source/Sources.gz
  3df2fc3d982981b51994e29b2bb32698d71690f4 131 main/source/Release
 SHA256:
- 17e25bc685dc34a4ec5f44c3ee78ed564fd9df773069571ba75777e34f55e34d 6284 main/binary-i386/Packages
- 0e04e19dbb1905d5bd87b11d5f13f89179511442c3b594b844b508f33f34b8d3 2286 main/binary-i386/Packages.gz
+ ba7826e2efde29c7ea9f5533356576ccb0f59cb4775f433467145d1450b1d767 6284 main/binary-i386/Packages
+ 73b99a8de31f6ac95d8294584aa7730ec8a67a6efe0243b0a3c9f59836c397f4 2289 main/binary-i386/Packages.gz
  fa4f6b9d3aa46f1b7236287388c1d1b2fdc5b1185981b185d63667dbbd2f3ad9 129 main/binary-i386/Release
- 211ed8da178c3d41936d1870a614ef963b67c153cc9a2a55493bf4f644c8934c 11032 main/binary-amd64/Packages
- 84e6f1dcad29fab609e1302c4166821e0d1683b163754db5de2fd33ec47fc940 3315 main/binary-amd64/Packages.gz
+ 3dd9c3721b8d69ac3d2a84fd1db4c099f614e4a6b71aabf0aa808165ccce1b85 11032 main/binary-amd64/Packages
+ e141dba97dc7042b442a9c730c7336eef7f26a3c4f4b6ee1d2078ee3bc5e18f7 3322 main/binary-amd64/Packages.gz
  50961445d9f0a749accfd99262fb1fff64936a03c7ac5d957a2383c65c21aaf5 130 main/binary-amd64/Release
- 9a04b26ccb0c5c5ccbfe95be2787267e85638a0db50711245b695c04146fcc41 4825 main/source/Sources
- b384e5678d9f8898dba0f5047eec36dc0afff36b1768d229e6e4985a52357a62 1884 main/source/Sources.gz
+ ed6441ad96bc49b27c4d33ebcfddd302dbb4ea005551c21d6c05216d0c8ca40f 4825 main/source/Sources
+ 6b60759390e1f013b7cdf82d4856ded021889339206650ddd43d46041b6ab913 1885 main/source/Sources.gz
  94ca48480b579277b393d766e5aab71256ca57d474010d45bdaba7b6ece915be 131 main/source/Release
