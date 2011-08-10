@@ -1,5 +1,7 @@
 swift (1.4.2rax1-1) lucid; urgency=low
 
+  * [Made from lp:swift revno 339]
+
   * More quarantine catching code.
 
   * Swift3 middleware now uses application/xml content type.
