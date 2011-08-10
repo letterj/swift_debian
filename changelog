@@ -1,3 +1,11 @@
+swift (1.4.2rax1-1) lucid; urgency=low
+
+  * More quarantine catching code.
+
+  * Swift3 middleware now uses application/xml content type.
+
+ -- Gregory Holt <gholt@rackspace.com>  Wed, 10 Aug 2011 13:03:57 +0000
+
 swift (1.4.2-1) lucid; urgency=low
 
     * Container Synchronization Feature - First Edition
