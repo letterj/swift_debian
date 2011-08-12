@@ -136,20 +136,20 @@ Description: Lightweight in-process concurrent programming development files
 
 Package: python-swift
 Source: swift
-Version: 1.4.2rax1-1
+Version: 1.4.2rax2-1
 Architecture: all
 Maintainer: Michael Barton <michael.barton@rackspace.com>
-Installed-Size: 847
+Installed-Size: 852
 Depends: python (>= 2.6), python-support (>= 0.90.0), python-openssl, python-setuptools, python-pastedeploy, python-webob (>= 0.9.7.1~hg20100111-1~racklabs1), python-simplejson, python-xattr, python-netifaces, python-greenlet (>= 0.3.1), python-eventlet (>= 0.9.8)
 Provides: python2.6-swift
 Homepage: http://launchpad.net/swift
 Priority: optional
 Section: python
-Filename: pool/main/s/swift/python-swift_1.4.2rax1-1_all.deb
-Size: 261446
-SHA256: bb764167008ac8f032fecc8475c48d3f41c38b7a72bcf636ff9207297e23b5dc
-SHA1: b6585279b60bf9bbfb11d2c730f092209c34e6db
-MD5sum: 91ccbd827a20fd45666358b1bd04f853
+Filename: pool/main/s/swift/python-swift_1.4.2rax2-1_all.deb
+Size: 263438
+SHA256: 458ac8f45f0fd83c747e4ec2e03543f53c57e741dd19161421f22f666c6aacf2
+SHA1: b680cb910f246ba4499e962b55edf1aa81c81dd6
+MD5sum: 0fcf00df1b35aa4eda6b55ba99a4e590
 Description: A distributed virtual object store (python libraries)
  Swift is a distributed virtual object store.
  .
@@ -179,61 +179,61 @@ Description: Python module providing WSGI request and response objects
  parsing and accessors for other standard parts of the environment.
 
 Package: swift
-Version: 1.4.2rax1-1
+Version: 1.4.2rax2-1
 Architecture: all
 Maintainer: Michael Barton <michael.barton@rackspace.com>
 Installed-Size: 96
-Depends: python-swift (= 1.4.2rax1-1), python (>= 2.6)
+Depends: python-swift (= 1.4.2rax2-1), python (>= 2.6)
 Homepage: http://launchpad.net/swift
 Priority: optional
 Section: net
-Filename: pool/main/s/swift/swift_1.4.2rax1-1_all.deb
-Size: 38362
-SHA256: cb42c839d6b1a4b0573c3ff785d8bd9e48be9be2b75bda27641f027e6f820c79
-SHA1: 50f6ca5b66b807fe0dc5f24de48aaaf236d9e611
-MD5sum: b57fe69a14787ac5ee04e42af05accc3
+Filename: pool/main/s/swift/swift_1.4.2rax2-1_all.deb
+Size: 38438
+SHA256: 566e9c26163863e3238e536762a1a96cb76409e39298746aaf7f53bc924a297b
+SHA1: 713504ce3b361a3e6a229a809e8b51e10813bb4a
+MD5sum: 7a1bc36f9405a35fad2d244332005efd
 Description: A distributed virtual object store (common files)
  Swift is a distributed virtual object store.
 
 Package: swift-account
 Source: swift
-Version: 1.4.2rax1-1
+Version: 1.4.2rax2-1
 Architecture: all
 Maintainer: Michael Barton <michael.barton@rackspace.com>
 Installed-Size: 15
-Depends: python-swift (= 1.4.2rax1-1), rsync, python (>= 2.6)
+Depends: python-swift (= 1.4.2rax2-1), rsync, python (>= 2.6)
 Homepage: http://launchpad.net/swift
 Priority: optional
 Section: net
-Filename: pool/main/s/swift/swift-account_1.4.2rax1-1_all.deb
-Size: 10046
-SHA256: 5acd27321d6234b3cacbf2a9b741b0128bd1928ad529dbdf1be54f8c0c05f341
-SHA1: d43c58e327a8b3eb73f4a84bbde2a7cbf40bd68a
-MD5sum: d18ec53c4ae2887750963df92b74b454
+Filename: pool/main/s/swift/swift-account_1.4.2rax2-1_all.deb
+Size: 10106
+SHA256: 92028c4cac1a467510dedd006c6f513e938165bc9a941ada93a92aac6848b9a9
+SHA1: b4f7e21223b779c9409fa6b734370110dd1fb30c
+MD5sum: c6e872e5d6fa2726473bb2d6e0f3488a
 Description: The swift account server
  The swift account server.
 
 Package: swift-container
 Source: swift
-Version: 1.4.2rax1-1
+Version: 1.4.2rax2-1
 Architecture: all
 Maintainer: Michael Barton <michael.barton@rackspace.com>
 Installed-Size: 16
-Depends: python-swift (= 1.4.2rax1-1), rsync, python (>= 2.6)
+Depends: python-swift (= 1.4.2rax2-1), rsync, python (>= 2.6)
 Homepage: http://launchpad.net/swift
 Priority: optional
 Section: net
-Filename: pool/main/s/swift/swift-container_1.4.2rax1-1_all.deb
-Size: 10260
-SHA256: c173264cc6126c08082852aa12cf6e3d6cbfbad88e7f779df0482c50d9bf89ba
-SHA1: 727daf1856ac4edff281f13ebf0080e8f98527b7
-MD5sum: ce63c60624eddfaca28545ab8acbdad0
+Filename: pool/main/s/swift/swift-container_1.4.2rax2-1_all.deb
+Size: 10314
+SHA256: e887fb3b605d5291087524759bd0762497613b6bb16213c34ab5c35f00938f3e
+SHA1: f8e2b0927c19276aa95f8b76e7c42ae677aa6158
+MD5sum: a001fa362dda8f8444b4faa7ea1d7846
 Description: The swift container server
  The swift container server.
 
 Package: swift-doc
 Source: swift
-Version: 1.4.2rax1-1
+Version: 1.4.2rax2-1
 Architecture: all
 Maintainer: Michael Barton <michael.barton@rackspace.com>
 Installed-Size: 484
@@ -241,47 +241,47 @@ Depends: libjs-jquery
 Homepage: http://launchpad.net/swift
 Priority: optional
 Section: doc
-Filename: pool/main/s/swift/swift-doc_1.4.2rax1-1_all.deb
-Size: 228950
-SHA256: 589c0b9bf1af153349de44cff4c00e83fe677ea99fafa2cea4fe63f56d6fbb8d
-SHA1: 0801b3caa9c45809b39a15a2e51209daaafe0747
-MD5sum: d72ca7463acaaafcd4ee049c9b69ca5c
+Filename: pool/main/s/swift/swift-doc_1.4.2rax2-1_all.deb
+Size: 229032
+SHA256: 9f4e725ba38b92e28ed48b5eca1e68a98a7d6a26b9b5c06d90259b02c5b01d38
+SHA1: e7197e7c3dfc79515551d93eacdc96009a642e79
+MD5sum: d64581b971a076637c62f0b160b93312
 Description: The swift documentation
  Sphinx documentation for Swift.
 
 Package: swift-object
 Source: swift
-Version: 1.4.2rax1-1
+Version: 1.4.2rax2-1
 Architecture: all
 Maintainer: Michael Barton <michael.barton@rackspace.com>
 Installed-Size: 19
-Depends: python-swift (= 1.4.2rax1-1), rsync, python (>= 2.6)
+Depends: python-swift (= 1.4.2rax2-1), rsync, python (>= 2.6)
 Homepage: http://launchpad.net/swift
 Priority: optional
 Section: net
-Filename: pool/main/s/swift/swift-object_1.4.2rax1-1_all.deb
-Size: 11606
-SHA256: 7352daf9f2336215a695a9c0063832608e69a7fc489072d96587efcfef6be6c1
-SHA1: 7e01e50660da5c1530911cbafdcefa9457be927d
-MD5sum: 55478b5ffdfa6e6a36b45e3765a79a84
+Filename: pool/main/s/swift/swift-object_1.4.2rax2-1_all.deb
+Size: 11668
+SHA256: e45b4b02c7a3373ee7707b1c58fcef8ad62faad587f2b85262cda10439c08c6d
+SHA1: 7be27e43f5f22ef3b30bc83f6795256642317b84
+MD5sum: 37a3ff12b9b5a892027250c5ebddc76b
 Description: The swift object server
  The swift object server.
 
 Package: swift-proxy
 Source: swift
-Version: 1.4.2rax1-1
+Version: 1.4.2rax2-1
 Architecture: all
 Maintainer: Michael Barton <michael.barton@rackspace.com>
 Installed-Size: 13
-Depends: python-swift (= 1.4.2rax1-1), python (>= 2.6)
+Depends: python-swift (= 1.4.2rax2-1), python (>= 2.6)
 Homepage: http://launchpad.net/swift
 Priority: optional
 Section: net
-Filename: pool/main/s/swift/swift-proxy_1.4.2rax1-1_all.deb
-Size: 11458
-SHA256: df37157888fb0e667c2de77534721fc2ff850f0453a239e359d5cb36354fe100
-SHA1: 8838a1562f97d2fe9a712bbe74f4587ec7151a6f
-MD5sum: 2ee97a8b418631cd4c5122505d8fa32d
+Filename: pool/main/s/swift/swift-proxy_1.4.2rax2-1_all.deb
+Size: 11516
+SHA256: 90fa06bebf1a93a9150d8bc166a0eb58338f220b488b90acc9a4fb8119dfe0e6
+SHA1: 0056d25a8196e75504bf7444d1e190d29558ebaf
+MD5sum: 4d72b6fde3516e758c4b4ae69fb975cd
 Description: The swift proxy server
  The swift proxy server.
 

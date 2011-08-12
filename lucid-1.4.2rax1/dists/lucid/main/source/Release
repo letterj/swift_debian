@@ -1,7 +1,0 @@
-Archive: stable
-Version: 5.0
-Component: main
-Origin: Swift
-Label: Swift
-Architecture: source
-Description: Swift packages for Lucid
