@@ -1,0 +1,287 @@
+Package: python-eventlet
+Version: 0.9.15-rax2
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 239
+Depends: python (>= 2.5), python-support (>= 0.90.0), python-greenlet
+Provides: python2.6-eventlet
+Homepage: http://eventlet.net
+Priority: optional
+Section: python
+Filename: pool/main/p/python-eventlet/python-eventlet_0.9.15-rax2_amd64.deb
+Size: 113716
+SHA256: a6ea3a04c3eb8246379deec9d68fc4a0a43a90ea51f7231f6ca7ad714e91e51a
+SHA1: e52f35b0738d65270711922b2c5241f9ba22d2a2
+MD5sum: d12669d5f506f886d239abb9d9fb066d
+Description: A concurrent networking library for Python
+ Eventlet allows you to change how you run your code, not how you write it.
+ .
+ It uses epoll or libevent for highly scalable non-blocking I/O.
+ Coroutines ensure that the developer uses a blocking style of programming
+ that is similar to threading, but provide the benefits of non-blocking I/O.
+ The event dispatch is implicit, which means you can easily use Eventlet from
+ the Python interpreter, or as a small part of a larger application.
+ .
+ It's easy to get started using Eventlet, and easy to convert existing
+ applications to use it. Start off by looking at examples, common design
+ patterns, and the list of the basic API primitives.
+Original-Maintainer: Monty Taylor <mordred@inaugust.com>
+
+Package: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: amd64
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 27
+Depends: libc6 (>= 2.2.5), python (<< 2.7), python (>= 2.6), python-support (>= 0.90.0)
+Suggests: python-greenlet-doc, python-greenlet-dev, python-greenlet-dbg
+Conflicts: python-codespeak-lib (<< 1.0)
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: python
+Filename: pool/main/p/python-greenlet/python-greenlet_0.3.1-1ubuntu1build1_amd64.deb
+Size: 14684
+SHA256: 198d4b495119dfe9b6cb3abcb4392fb973aa2650036a40955cebb743a6689763
+SHA1: 7b79bfefa6dd4f6ba7928d83cd1cefb586f00d77
+MD5sum: 94613ffe8ad69e0359b018092e7d7c7b
+Description: Lightweight in-process concurrent programming
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+
+Package: python-greenlet-dbg
+Source: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: amd64
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 24
+Depends: python-greenlet (= 0.3.1-1ubuntu1build1)
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: debug
+Filename: pool/main/p/python-greenlet/python-greenlet-dbg_0.3.1-1ubuntu1build1_amd64.deb
+Size: 15008
+SHA256: 2b891216fa52d89054e9ef7895cf99129791edd423e12a6cc33d9f45814a3762
+SHA1: 8b84911eca25c1c6559476fa6393692e9ae4d3d0
+MD5sum: fab8ae83790556e511adc084728b5314
+Description: Lightweight in-process concurrent programming development files
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+ .
+ This is the debugging symbols for greenlet.
+
+Package: python-greenlet-dev
+Source: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: amd64
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 7
+Depends: python-greenlet (= 0.3.1-1ubuntu1build1)
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: python
+Filename: pool/main/p/python-greenlet/python-greenlet-dev_0.3.1-1ubuntu1build1_amd64.deb
+Size: 2250
+SHA256: a11eb0c90a5c48632478093d56fc139a37e0f22301af7343f17afabe2bb47c47
+SHA1: 9ce9362e45e242569256ee7527c812444dd7da7c
+MD5sum: 6d7dd8355e1ee7db7e868a18b92a6141
+Description: Lightweight in-process concurrent programming development files
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+ .
+ This is the development package for greenlet.
+
+Package: python-greenlet-doc
+Source: python-greenlet
+Version: 0.3.1-1ubuntu1build1
+Architecture: all
+Maintainer: Örjan Persson <orange@fobie.net>
+Installed-Size: 12
+Suggests: python-greenlet, python-greenlet-dev
+Homepage: http://pypi.python.org/pypi/greenlet
+Priority: extra
+Section: doc
+Filename: pool/main/p/python-greenlet/python-greenlet-doc_0.3.1-1ubuntu1build1_all.deb
+Size: 9624
+SHA256: a1deda6c133433f2242e1c59fbc50e6ca8fd536b85c837eea6ae545a0aed148e
+SHA1: 54c9b3d5e215d8c78abd7bc9851314b182cdaed1
+MD5sum: 94835eb06e4750e4e0dad9d957a7132a
+Description: Lightweight in-process concurrent programming development files
+ The greenlet package is a spin-off of Stackless, a version of CPython that
+ supports micro-threads called "tasklets". Tasklets run pseudo-concurrently
+ (typically in a single or a few OS-level threads) and are synchronized with
+ data exchanges on "channels".
+ .
+ greenlet is the standalone package derived from the py lib, and is used by
+ several non-blocking IO packages as a more flexible alternative to Python's
+ built in coroutines.
+ .
+ This is the documentation for greenlet.
+
+Package: python-swift
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 2184
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-openssl, python-setuptools, python-pastedeploy, python-webob (>= 0.9.7.1~hg20100111-1~racklabs1), python-simplejson, python-xattr, python-netifaces, python-greenlet (>= 0.3.1), python-eventlet (>= 0.9.8)
+Provides: python2.6-swift
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: python
+Filename: pool/main/s/swift/python-swift_1.4.0-2_all.deb
+Size: 282846
+SHA256: 06403ec7f62c8d345d5347d0cb8110c2f5f76e1536fa705b322bbaf55b959ae6
+SHA1: 10d7cc526e86a3f9efc201f4a2ea6a77e75101cf
+MD5sum: fc5a317fe8d671882443c1619357a1e3
+Description: A distributed virtual object store (python libraries)
+ Swift is a distributed virtual object store.
+ .
+ This package provides the python libraries that actually implement
+ everything.
+
+Package: python-webob
+Version: 1.0.7-1
+Architecture: all
+Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Installed-Size: 590
+Depends: python
+Suggests: libjs-jquery
+Homepage: http://pythonpaste.org/webob/
+Priority: optional
+Section: python
+Filename: pool/main/p/python-webob/python-webob_1.0.7-1_all.deb
+Size: 280146
+SHA256: c22dec46425d24d00e1b50b9a2d9217b0eb7d7785592bfaf12d51ca24c2e8753
+SHA1: 2f9dac59c0aeea6716935580e98feb905678fdf8
+MD5sum: eb607b3981d73b6e4210282cf943412a
+Description: Python module providing WSGI request and response objects
+ WebOb provides wrappers around the WSGI request environment, and an object to
+ help create WSGI responses.
+ .
+ The objects map much of the specified behavior of HTTP, including header
+ parsing and accessors for other standard parts of the environment.
+
+Package: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 276
+Depends: python-swift (= 1.4.0-2), python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift_1.4.0-2_all.deb
+Size: 40754
+SHA256: 9aec96948e29526f1cbea18f94712af6daf40153d3713b5e9d6dd3e79e37ba2c
+SHA1: 4c0486d5a62f4a604b8ba7fd97aad1379187aa14
+MD5sum: a8ec64a357a8bce2a2c236aa38c9acfa
+Description: A distributed virtual object store (common files)
+ Swift is a distributed virtual object store.
+
+Package: swift-account
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 104
+Depends: python-swift (= 1.4.0-2), rsync, python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-account_1.4.0-2_all.deb
+Size: 8822
+SHA256: 55449428c322aa3c4aed487ced2f5439d67563806c65d18d883044ba35efd6fe
+SHA1: 24f3b1bcec4f529c452926bf303f4c01582f5363
+MD5sum: 9434aebf2c5869f0b0ba2fff3f2c9915
+Description: The swift account server
+ The swift account server.
+
+Package: swift-container
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 96
+Depends: python-swift (= 1.4.0-2), rsync, python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-container_1.4.0-2_all.deb
+Size: 8412
+SHA256: caccb3e6884ec9f7a9dd1dfec9bdb77b039be87f6949656a9773c6351c5be1d7
+SHA1: f3a09c124246a9b8e5eaabb04469593763647061
+MD5sum: c6967f0953191d68289df02eb080b36e
+Description: The swift container server
+ The swift container server.
+
+Package: swift-doc
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 1148
+Depends: libjs-jquery
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: doc
+Filename: pool/main/s/swift/swift-doc_1.4.0-2_all.deb
+Size: 238258
+SHA256: 1c5fee81b0add74e9f6af66904686660e24eec572cf8459123bcf0e4ac3ab30c
+SHA1: 8801756db1ab5ae17b5228550eabc0f06286c387
+MD5sum: c7fa8d0cdc28953516a3abfa52ff9d6d
+Description: The swift documentation
+ Sphinx documentation for Swift.
+
+Package: swift-object
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 104
+Depends: python-swift (= 1.4.0-2), rsync, python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-object_1.4.0-2_all.deb
+Size: 10008
+SHA256: fe9033c3ddc21ec7bac82e0cdeb641c50a2a594e5c2f64829167f8fe1bc75cdc
+SHA1: 7f1ab68fb9b96d534efd585b47082db44c585fd7
+MD5sum: 5b85cf146a3759277222fe3ecd3f4727
+Description: The swift object server
+ The swift object server.
+
+Package: swift-proxy
+Source: swift
+Version: 1.4.0-2
+Architecture: all
+Maintainer: Michael Barton <michael.barton@rackspace.com>
+Installed-Size: 76
+Depends: python-swift (= 1.4.0-2), python (>= 2.6)
+Homepage: http://launchpad.net/swift
+Priority: optional
+Section: net
+Filename: pool/main/s/swift/swift-proxy_1.4.0-2_all.deb
+Size: 9422
+SHA256: 034de64be1044754749703021dd2484ed51501e2fc86e385c37e739b6fb592f7
+SHA1: da73d968afd7bde78145c8ec5e8a69cba029e55d
+MD5sum: ee86796e8f6b5215a9dd68a87fb11819
+Description: The swift proxy server
+ The swift proxy server.
+
